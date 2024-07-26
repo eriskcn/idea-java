@@ -22,5 +22,8 @@ public class Main {
         System.out.println("Radius: " + circle2.getRadius());
         System.out.println("Area: " + circle2.getArea());
         System.out.println("Perimeter: " + circle2.getPerimeter());
+
+        System.out.println();
+        System.out.println("Bo may test push");
     }
 }
