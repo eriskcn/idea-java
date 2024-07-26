@@ -25,5 +25,6 @@ public class Main {
 
         System.out.println();
         System.out.println("Bo may test push");
+        System.out.println("Bo may test phat nua");
     }
 }
